@@ -1,3 +1,7 @@
 // This is a plan file.
 Git config --(global | local) user.name
 Git config --(global | local) user.email
+Bring back file == git checkout <commitHas> -- filename
+Merged branches:
+Git branch --merged (merged into the currently checkout branch)
+
